@@ -1,4 +1,4 @@
-# VGG-Internship Assignment
+# VGG-Internship Assignment 1
 A command-line Banking Application built with Python(version 3.8) with the following functionalities:<br>
 
 Welcome Message <br>
